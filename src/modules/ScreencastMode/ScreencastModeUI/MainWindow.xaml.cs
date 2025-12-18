@@ -134,7 +134,7 @@ namespace ScreencastModeUI
                 // 0x00000020 = WS_EX_TRANSPARENT - Makes window transparent to mouse input (click-through)
                 // 0x00000080 = WS_EX_TOOLWINDOW - Hides from Task Manager window list and taskbar
                 // 0x08000000 = WS_EX_NOACTIVATE - Prevents window from being activated/focused
-                // 0x00080000 = WS_EX_LAYERED - Still necesseary even though its enabled in WinUI
+                // 0x00080000 = WS_EX_LAYERED - Still necessary even though its enabled in WinUI
                 extendedStyle |= 0x00000020 | 0x00000080 | 0x08000000 | 0x00080000;
 
                 _ = SetWindowLong(hwnd, -20, extendedStyle);
@@ -334,7 +334,7 @@ namespace ScreencastModeUI
         }
 
         /// <summary>
-        /// Move the overlaw to the updated position based on settings
+        /// Move the overlay to the updated position based on settings
         /// </summary>
         private void UpdateWindowPosition()
         {
@@ -408,7 +408,7 @@ namespace ScreencastModeUI
         }
 
         /// <summary>
-        /// Intializes the global keyboard hook to listen for keystrokes
+        /// Initializes the global keyboard hook to listen for keystrokes
         /// </summary>
         private void SetupKeyboardHook()
         {
