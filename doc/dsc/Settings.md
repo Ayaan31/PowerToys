@@ -29,6 +29,7 @@ PowerAccent
 PowerOCR
 PowerRename
 RegistryPreview
+ScreencastMode
 ShortcutGuide
 Workspaces
 ZoomIt
