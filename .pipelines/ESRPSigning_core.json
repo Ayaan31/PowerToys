@@ -223,6 +223,9 @@
             "WinUI3Apps\\PowerToys.RegistryPreview.dll",
             "WinUI3Apps\\PowerToys.RegistryPreview.exe",
 
+            "WinUI3Apps\\PowerToys.ScreencastModeModuleInterface.dll",
+            "WinUI3Apps\\PowerToys.ScreencastModeUI.exe",
+
             "PowerToys.ShortcutGuide.exe",
             "PowerToys.ShortcutGuideModuleInterface.dll",
 
