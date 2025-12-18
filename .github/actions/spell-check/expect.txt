@@ -1531,8 +1531,6 @@ scanled
 schedtasks
 SCID
 Scode
-screencasts
-Screencast
 screencast
 SCREENCASTMODE
 SCREENFONTS
