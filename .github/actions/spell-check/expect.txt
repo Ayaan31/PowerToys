@@ -1532,6 +1532,7 @@ schedtasks
 SCID
 Scode
 screencast
+screencastmode
 SCREENCASTMODE
 SCREENFONTS
 screenruler
